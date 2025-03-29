@@ -1,5 +1,5 @@
 flask
-deepseek-sdk
+openai>=1.0.0
 psycopg2
 python-dotenv
 slack_bolt
