@@ -3,3 +3,4 @@ deepseek-sdk
 psycopg2
 python-dotenv
 slack_bolt
+gunicorn==21.2.0
