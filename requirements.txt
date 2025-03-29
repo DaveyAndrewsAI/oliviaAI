@@ -1,0 +1,5 @@
+flask
+deepseek-sdk
+psycopg2
+python-dotenv
+slack_bolt
